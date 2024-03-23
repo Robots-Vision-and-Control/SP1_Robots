@@ -1,5 +1,5 @@
 import requests
-from Movements_Commands import *
+from Movement_Commands import *
 
 
 def movement_command(select_command,position):
